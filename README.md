@@ -13,10 +13,8 @@ Terraform を用いて AWS インフラ環境を構築した学習用プロジ�
 
 ## 使用技術
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-A61200?style=for-the-badge&logo=terraform&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-Web_Server-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 動作確認
 
